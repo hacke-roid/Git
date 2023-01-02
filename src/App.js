@@ -1,6 +1,10 @@
+import Git from "./components/Git";
+
 function App() {
     return(
-        <div>Hello world</div>
+        <div>
+            <Git/>
+        </div>
     )
 };
 
